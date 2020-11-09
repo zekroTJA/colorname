@@ -1,0 +1,236 @@
+Gainsboro	#DCDCDC	86%	86%	86%	—°	0%	86%	0%	86%
+Gamboge	#E49B0F	89%	61%	6%	39°	88%	48%	93%	89%
+Generic viridian	#007F66	0%	50%	40%	168°	100%	25%	100%	50%
+Ghost white	#F8F8FF	97%	97%	100%	240°	100%	99%	3%	100%
+Glaucous	#6082B6	38%	51%	71%	216°	37%	55%	47%	71%
+Glossy grape	#AB92B3	67%	57%	70%	285°	18%	64%	18%	70%
+GO green	#00AB66	0%	67%	40%	156°	100%	34%	100%	67%
+Gold	#A57C00	65%	49%	0%	46°	100%	32%	100%	65%
+Gold (metallic)	#D4AF37	83%	69%	22%	46°	65%	52%	74%	83%
+Gold (web) (Golden)	#FFD700	100%	84%	0%	51°	100%	50%	100%	100%
+Gold (Crayola)	#E6BE8A	90%	75%	54%	34°	65%	72%	40%	90%
+Gold Fusion	#85754E	52%	46%	31%	43°	26%	41%	41%	52%
+Golden brown	#996515	60%	40%	8%	36°	76%	34%	86%	60%
+Golden poppy	#FCC200	99%	76%	0%	46°	100%	49%	100%	99%
+Golden yellow	#FFDF00	100%	87%	0%	52°	100%	50%	100%	100%
+Goldenrod	#DAA520	85%	65%	13%	43°	74%	49%	85%	85%
+Granite gray	#676767	40%	40%	40%	—°	0%	40%	0%	40%
+Granny Smith apple	#A8E4A0	66%	89%	63%	113°	56%	76%	30%	89%
+Gray (web)	#808080	50%	50%	50%	—°	0%	50%	0%	50%
+Gray (X11 gray)	#BEBEBE	75%	75%	75%	—°	0%	75%	0%	75%
+Green	#00FF00	0%	100%	0%	120°	100%	50%	100%	100%
+Green (Crayola)	#1CAC78	11%	67%	47%	158°	72%	39%	84%	67%
+Green (web)	#008000	0%	50%	0%	120°	100%	25%	100%	50%
+Green (Munsell)	#00A877	0%	66%	47%	163°	100%	33%	100%	66%
+Green (NCS)	#009F6B	0%	62%	42%	160°	100%	31%	100%	62%
+Green (Pantone)	#00AD43	0%	68%	26%	143°	100%	34%	100%	68%
+Green (pigment)	#00A550	0%	65%	31%	149°	100%	32%	100%	65%
+Green (RYB)	#66B032	40%	69%	20%	95°	56%	44%	72%	69%
+Green-blue	#1164B4	7%	39%	71%	209°	83%	39%	91%	71%
+Green-blue (Crayola)	#2887C8	16%	53%	78%	204°	67%	47%	80%	78%
+Green-cyan	#009966	0%	60%	40%	160°	100%	30%	100%	60%
+Green Lizard	#A7F432	65%	96%	20%	84°	90%	58%	80%	96%
+Green Sheen	#6EAEA1	43%	68%	63%	168°	28%	56%	37%	68%
+Green-yellow	#ADFF2F	68%	100%	18%	84°	100%	59%	82%	100%
+Green-yellow (Crayola)	#F0E891	94%	91%	57%	55°	76%	76%	40%	94%
+Grullo	#A99A86	66%	60%	53%	34°	17%	59%	21%	66%
+Gunmetal	#2a3439	16%	20%	22%	200°	15%	19%	15%	19%
+Han blue	#446CCF	27%	42%	81%	223°	59%	54%	67%	81%
+Han purple	#5218FA	32%	9%	98%	255°	96%	54%	90%	98%
+Hansa yellow	#E9D66B	91%	84%	42%	51°	74%	67%	54%	91%
+Harlequin	#3FFF00	25%	100%	0%	105°	100%	50%	100%	100%
+Harvest gold	#DA9100	85%	57%	0%	40°	100%	43%	100%	85%
+Heat Wave	#FF7A00	100%	48%	0%	29°	100%	50%	100%	100%
+Heliotrope	#DF73FF	87%	45%	100%	286°	100%	73%	55%	100%
+Heliotrope gray	#AA98A9	67%	60%	66%	303°	10%	63%	11%	67%
+Hollywood cerise	#F400A1	96%	0%	63%	320°	100%	48%	100%	96%
+Honeydew	#F0FFF0	94%	100%	94%	120°	100%	97%	6%	100%
+Honolulu blue	#006DB0	0%	43%	69%	203°	100%	35%	100%	69%
+Hooker's green	#49796B	29%	47%	42%	163°	25%	38%	40%	47%
+Hot magenta	#FF1DCE	100%	11%	81%	313°	100%	56%	89%	100%
+Hot pink	#FF69B4	100%	41%	71%	330°	100%	71%	59%	100%
+Hunter green	#355E3B	21%	37%	23%	129°	28%	29%	44%	37%
+Iceberg	#71A6D2	44%	65%	82%	207°	52%	63%	46%	82%
+Icterine	#FCF75E	99%	97%	37%	58°	96%	68%	63%	99%
+Illuminating emerald	#319177	19%	57%	47%	164°	49%	38%	66%	57%
+Imperial red	#ED2939	93%	16%	22%	355°	84%	55%	83%	93%
+Inchworm	#B2EC5D	70%	93%	36%	84°	79%	65%	61%	93%
+Independence	#4C516D	30%	32%	43%	231°	18%	36%	30%	43%
+India green	#138808	7%	53%	3%	115°	89%	28%	94%	53%
+Indian red	#CD5C5C	80%	36%	36%	0°	53%	58%	55%	80%
+Indian yellow	#E3A857	89%	66%	34%	35°	71%	62%	62%	89%
+Indigo	#4B0082	29%	0%	51%	266°	100%	26%	100%	51%
+Indigo dye	#00416A	0%	25%	42%	203°	100%	21%	100%	42%
+International orange (aerospace)	#FF4F00	100%	31%	0%	19°	100%	50%	100%	100%
+International orange (engineering)	#BA160C	73%	9%	5%	3°	88%	39%	94%	73%
+International orange (Golden Gate Bridge)	#C0362C	75%	21%	17%	4°	63%	46%	77%	75%
+Iris	#5A4FCF	35%	31%	81%	245°	57%	56%	62%	81%
+Irresistible	#B3446C	70%	27%	42%	338°	45%	48%	62%	70%
+Isabelline	#F4F0EC	96%	94%	93%	30°	27%	94%	3%	96%
+Italian sky blue	#B2FFFF	70%	100%	100%	180°	100%	85%	30%	100%
+Ivory	#FFFFF0	100%	100%	94%	60°	100%	97%	6%	100%
+Jade	#00A86B	0%	66%	42%	158°	100%	33%	100%	66%
+Japanese carmine	#9D2933	62%	16%	20%	355°	59%	39%	74%	62%
+Japanese violet	#5B3256	36%	20%	34%	307°	29%	28%	45%	36%
+Jasmine	#F8DE7E	97%	87%	49%	47°	90%	73%	49%	97%
+Jazzberry jam	#A50B5E	65%	4%	37%	328°	88%	35%	93%	65%
+Jet	#343434	20%	20%	20%	—°	0%	20%	0%	20%
+Jonquil	#F4CA16	96%	79%	9%	49°	91%	52%	91%	96%
+June bud	#BDDA57	74%	85%	34%	73°	64%	60%	60%	85%
+Jungle green	#29AB87	16%	67%	53%	163°	61%	42%	76%	67%
+Kelly green	#4CBB17	30%	73%	9%	101°	78%	41%	88%	73%
+Keppel	#3AB09E	23%	69%	62%	171°	50%	46%	67%	69%
+Key lime	#E8F48C	91%	96%	55%	67°	83%	75%	43%	96%
+Khaki (web)	#C3B091	76%	69%	57%	37°	29%	67%	26%	76%
+Khaki (X11) (Light khaki)	#F0E68C	94%	90%	55%	54°	77%	75%	42%	94%
+Kobe	#882D17	53%	18%	9%	12°	71%	31%	83%	53%
+Kobi	#E79FC4	91%	62%	77%	329°	60%	76%	31%	91%
+Kobicha	#6B4423	42%	27%	14%	28°	51%	28%	67%	42%
+Kombu green	#354230	21%	26%	19%	103°	16%	22%	27%	26%
+KSU purple	#512888	31%	15%	51%	266°	55%	33%	71%	53%
+Languid lavender	#D6CADD	84%	79%	87%	278°	22%	83%	9%	87%
+Lapis lazuli	#26619C	15%	38%	61%	210°	61%	38%	76%	61%
+Laser lemon	#FFFF66	100%	100%	40%	60°	100%	70%	60%	100%
+Laurel green	#A9BA9D	66%	73%	62%	95°	17%	67%	16%	73%
+Lava	#CF1020	81%	6%	13%	355°	86%	44%	92%	81%
+Lavender (floral)	#B57EDC	71%	49%	86%	275°	57%	68%	43%	86%
+Lavender (web)	#E6E6FA	90%	90%	98%	240°	67%	94%	8%	98%
+Lavender blue	#CCCCFF	80%	80%	100%	240°	100%	90%	20%	100%
+Lavender blush	#FFF0F5	100%	94%	96%	340°	100%	97%	6%	100%
+Lavender gray	#C4C3D0	77%	76%	82%	245°	12%	79%	6%	82%
+Lawn green	#7CFC00	49%	99%	0%	90°	100%	49%	100%	99%
+Lemon	#FFF700	100%	97%	0%	58°	100%	50%	100%	100%
+Lemon chiffon	#FFFACD	100%	98%	80%	54°	100%	90%	20%	100%
+Lemon curry	#CCA01D	80%	63%	11%	45°	75%	46%	86%	80%
+Lemon glacier	#FDFF00	99%	100%	0%	60°	100%	50%	100%	100%
+Lemon meringue	#F6EABE	96%	92%	75%	47°	76%	85%	23%	96%
+Lemon yellow	#FFF44F	100%	96%	31%	56°	100%	65%	69%	100%
+Lemon yellow (Crayola)	#FFFF9F	100%	100%	62%	60°	100%	81%	38%	100%
+Liberty	#545AA7	33%	35%	65%	236°	33%	49%	50%	65%
+Light blue	#ADD8E6	68%	85%	90%	195°	53%	79%	25%	90%
+Light coral	#F08080	94%	50%	50%	0°	79%	72%	47%	94%
+Light cornflower blue	#93CCEA	58%	80%	92%	201°	67%	75%	37%	92%
+Light cyan	#E0FFFF	88%	100%	100%	180°	100%	94%	12%	100%
+Light French beige	#C8AD7F	78%	68%	50%	38°	40%	64%	37%	78%
+Light goldenrod yellow	#FAFAD2	98%	98%	82%	60°	80%	90%	16%	98%
+Light gray	#D3D3D3	83%	83%	83%	—°	0%	83%	0%	83%
+Light green	#90EE90	56%	93%	56%	120°	73%	75%	39%	93%
+Light orange	#FED8B1	100%	85%	69%	30°	98%	85%	30%	100%
+Light periwinkle	#C5CBE1	77%	80%	88%	228°	32%	83%	12%	88%
+Light pink	#FFB6C1	100%	71%	76%	351°	100%	86%	29%	100%
+Light salmon	#FFA07A	100%	63%	48%	17°	100%	74%	52%	100%
+Light sea green	#20B2AA	13%	70%	67%	177°	70%	41%	82%	70%
+Light sky blue	#87CEFA	53%	81%	98%	203°	92%	75%	46%	98%
+Light slate gray	#778899	47%	53%	60%	210°	14%	53%	22%	60%
+Light steel blue	#B0C4DE	69%	77%	87%	214°	41%	78%	21%	87%
+Light yellow	#FFFFE0	100%	100%	88%	60°	100%	94%	12%	100%
+Lilac	#C8A2C8	78%	64%	78%	300°	26%	71%	19%	78%
+Lilac Luster	#AE98AA	68%	60%	67%	311°	12%	64%	13%	68%
+Lime (color wheel)	#BFFF00	75%	100%	0%	75°	100%	50%	100%	100%
+Lime (web) (X11 green)	#00FF00	0%	100%	0%	120°	100%	50%	100%	100%
+Lime green	#32CD32	20%	80%	20%	120°	61%	50%	76%	80%
+Lincoln green	#195905	10%	35%	2%	106°	89%	18%	94%	35%
+Linen	#FAF0E6	98%	94%	90%	30°	67%	94%	8%	98%
+Lion	#C19A6B	76%	60%	42%	33°	41%	59%	45%	76%
+Liseran purple	#DE6FA1	87%	44%	63%	333°	63%	65%	50%	87%
+Little boy blue	#6CA0DC	42%	63%	86%	212°	62%	64%	51%	86%
+Liver	#674C47	40%	30%	28%	9°	18%	34%	31%	40%
+Liver (dogs)	#B86D29	72%	43%	16%	29°	64%	44%	78%	72%
+Liver (organ)	#6C2E1F	42%	18%	12%	12°	55%	27%	71%	42%
+Liver chestnut	#987456	60%	45%	34%	27°	28%	47%	43%	60%
+Livid	#6699CC	40%	60%	80%	210°	50%	60%	50%	80%
+Macaroni and Cheese	#FFBD88	100%	74%	53%	27°	100%	77%	47%	100%
+Madder Lake	#CC3336	80%	20%	21%	359°	60%	50%	75%	80%
+Magenta	#FF00FF	100%	0%	100%	300°	100%	50%	100%	100%
+Magenta (Crayola)	#F653A6	96%	33%	65%	329°	90%	65%	66%	97%
+Magenta (dye)	#CA1F7B	79%	12%	48%	328°	73%	46%	85%	79%
+Magenta (Pantone)	#D0417E	82%	25%	49%	334°	60%	54%	69%	82%
+Magenta (process)	#FF0090	100%	0%	56%	326°	100%	50%	100%	100%
+Magenta haze	#9F4576	62%	27%	46%	327°	39%	45%	57%	62%
+Magic mint	#AAF0D1	67%	94%	82%	153°	70%	80%	29%	94%
+Magnolia	#F2E8D7	95%	91%	84%	38°	51%	90%	11%	95%
+Mahogany	#C04000	75%	25%	0%	20°	100%	38%	100%	75%
+Maize	#FBEC5D	98%	93%	36%	54°	95%	67%	63%	98%
+Maize (Crayola)	#F2C649	95%	78%	29%	44°	87%	62%	70%	95%
+Majorelle blue	#6050DC	38%	31%	86%	247°	67%	59%	64%	86%
+Malachite	#0BDA51	4%	85%	32%	140°	90%	45%	95%	85%
+Manatee	#979AAA	59%	60%	67%	231°	10%	63%	11%	67%
+Mandarin	#F37A48	95%	48%	28%	18°	88%	62%	70%	95%
+Mango	#FDBE02	99%	75%	1%	46°	98%	50%	99%	99%
+Mango Tango	#FF8243	100%	51%	26%	20°	100%	63%	74%	100%
+Mantis	#74C365	45%	76%	40%	110°	44%	58%	48%	76%
+Mardi Gras	#880085	53%	0%	52%	301°	100%	27%	100%	53%
+Marigold	#EAA221	92%	64%	13%	39°	83%	52%	85%	91%
+Maroon (Crayola)	#C32148	76%	13%	28%	346°	71%	45%	83%	76%
+Maroon (web)	#800000	50%	0%	0%	0°	100%	25%	100%	50%
+Maroon (X11)	#B03060	69%	19%	38%	338°	57%	44%	73%	69%
+Mauve	#E0B0FF	88%	69%	100%	276°	100%	85%	31%	100%
+Mauve taupe	#915F6D	57%	37%	43%	343°	21%	47%	34%	57%
+Mauvelous	#EF98AA	94%	60%	67%	348°	73%	77%	36%	94%
+Maximum blue	#47ABCC	28%	67%	80%	195°	57%	54%	65%	80%
+Maximum blue green	#30BFBF	19%	75%	75%	180°	60%	47%	75%	75%
+Maximum blue purple	#ACACE6	67%	67%	90%	240°	54%	79%	25%	90%
+Maximum green	#5E8C31	37%	55%	19%	90°	48%	37%	65%	55%
+Maximum green yellow	#D9E650	85%	90%	31%	65°	75%	61%	65%	90%
+Maximum purple	#733380	45%	20%	50%	290°	43%	35%	60%	50%
+Maximum red	#D92121	85%	13%	13%	0°	74%	49%	85%	85%
+Maximum red purple	#A63A79	65%	23%	47%	325°	48%	44%	65%	65%
+Maximum yellow	#FAFA37	98%	98%	22%	60°	95%	60%	78%	98%
+Maximum yellow red	#F2BA49	95%	73%	29%	40°	87%	62%	70%	95%
+May green	#4C9141	30%	57%	25%	112°	38%	41%	55%	57%
+Maya blue	#73C2FB	45%	76%	98%	205°	94%	72%	54%	98%
+Medium aquamarine	#66DDAA	40%	87%	67%	154°	64%	63%	54%	87%
+Medium blue	#0000CD	0%	0%	80%	240°	100%	40%	100%	80%
+Medium candy apple red	#E2062C	89%	2%	17%	350°	95%	45%	97%	89%
+Medium carmine	#AF4035	69%	25%	21%	5°	54%	45%	70%	69%
+Medium champagne	#F3E5AB	95%	90%	67%	48°	75%	81%	30%	95%
+Medium orchid	#BA55D3	73%	33%	83%	288°	59%	58%	60%	83%
+Medium purple	#9370DB	58%	44%	86%	260°	60%	65%	49%	86%
+Medium sea green	#3CB371	24%	70%	44%	147°	50%	47%	66%	70%
+Medium slate blue	#7B68EE	48%	41%	93%	249°	80%	67%	56%	93%
+Medium spring green	#00FA9A	0%	98%	60%	157°	100%	49%	100%	98%
+Medium turquoise	#48D1CC	28%	82%	80%	178°	60%	55%	66%	82%
+Medium violet-red	#C71585	78%	8%	52%	322°	81%	43%	89%	78%
+Mellow apricot	#F8B878	97%	72%	47%	30°	90%	72%	52%	97%
+Mellow yellow	#F8DE7E	97%	87%	49%	47°	90%	73%	49%	97%
+Melon	#FEBAAD	100%	73%	68%	10°	98%	84%	32%	100%
+Metallic gold	#D3AF37	83%	69%	22%	46°	64%	52%	74%	83%
+Metallic Seaweed	#0A7E8C	4%	49%	55%	186°	87%	29%	93%	55%
+Metallic Sunburst	#9C7C38	61%	49%	22%	41°	47%	42%	64%	61%
+Mexican pink	#E4007C	89%	0%	49%	327°	100%	45%	100%	89%
+Middle blue	#7ED4E6	49%	83%	90%	190°	68%	70%	45%	90%
+Middle blue green	#8DD9CC	55%	85%	80%	170°	50%	70%	35%	85%
+Middle blue purple	#8B72BE	55%	45%	75%	260°	37%	60%	40%	75%
+Middle grey	#8B8680	55%	53%	50%	33°	5%	52%	8%	55%
+Middle green	#4D8C57	30%	55%	34%	130°	29%	43%	45%	55%
+Middle green yellow	#ACBF60	67%	75%	38%	72°	43%	56%	50%	75%
+Middle purple	#D982B5	85%	51%	71%	325°	53%	68%	40%	85%
+Middle red	#E58E73	90%	56%	45%	15°	69%	68%	50%	90%
+Middle red purple	#A55353	65%	33%	33%	0°	33%	49%	50%	65%
+Middle yellow	#FFEB00	100%	92%	0%	55°	100%	50%	100%	100%
+Middle yellow red	#ECB176	93%	69%	46%	30°	76%	69%	50%	93%
+Midnight	#702670	44%	15%	44%	300°	49%	29%	66%	44%
+Midnight blue	#191970	10%	10%	44%	240°	64%	27%	78%	44%
+Midnight green (eagle green)	#004953	0%	29%	33%	187°	100%	16%	100%	33%
+Mikado yellow	#FFC40C	100%	77%	5%	45°	100%	52%	95%	100%
+Mimi pink	#FFDAE9	100%	85%	91%	336°	100%	93%	15%	100%
+Mindaro	#E3F988	89%	98%	53%	72°	90%	75%	45%	98%
+Ming	#36747D	21%	45%	49%	188°	40%	35%	56%	49%
+Minion yellow	#F5E050	96%	86%	31%	52°	89%	64%	67%	96%
+Mint	#3EB489	24%	71%	54%	158°	49%	47%	66%	71%
+Mint cream	#F5FFFA	96%	100%	98%	150°	100%	98%	4%	100%
+Mint green	#98FF98	60%	100%	60%	120°	100%	80%	40%	100%
+Misty moss	#BBB477	73%	71%	47%	54°	33%	60%	36%	73%
+Misty rose	#FFE4E1	100%	89%	88%	6°	100%	94%	12%	100%
+Mode beige	#967117	59%	44%	9%	43°	73%	34%	85%	59%
+Morning blue	#8DA399	55%	64%	60%	153°	11%	60%	14%	64%
+Moss green	#8A9A5B	54%	60%	36%	75°	26%	48%	41%	60%
+Mountain Meadow	#30BA8F	19%	73%	56%	161°	59%	46%	74%	73%
+Mountbatten pink	#997A8D	60%	48%	55%	323°	13%	54%	20%	60%
+MSU green	#18453B	9%	27%	23%	167°	48%	18%	65%	27%
+Mulberry	#C54B8C	77%	29%	55%	328°	51%	53%	62%	77%
+Mulberry (Crayola)	#C8509B	78%	31%	61%	323°	52%	55%	60%	78%
+Mustard	#FFDB58	100%	86%	35%	47°	100%	67%	65%	100%
+Myrtle green	#317873	19%	47%	45%	176°	42%	33%	59%	47%
+Mystic	#D65282	84%	32%	51%	338°	62%	58%	62%	84%
+Mystic maroon	#AD4379	68%	26%	47%	329°	44%	47%	62%	68%
