@@ -2,6 +2,7 @@
     <h1>~ colorname ~</h1>
     <strong>Find the name of colors.</strong><br><br>
     <a href="https://pkg.go.dev/github.com/zekroTJA/colorname"><img src="https://godoc.org/github.com/zekroTJA/colorname?status.svg" /></a>&nbsp;
+    <a href="https://github.com/zekroTJA/colorname/actions/runs/353920630"><img src="https://github.com/zekroTJA/colorname/workflows/Main%20CI/badge.svg"/></a>&nbsp;
     <!-- <a href="https://travis-ci.org/zekroTJA/timedmap" ><img src="https://travis-ci.org/zekroTJA/timedmap.svg?branch=master" /></a>&nbsp; -->
     <!-- <a href="https://coveralls.io/github/zekroTJA/timedmap"><img src="https://coveralls.io/repos/github/zekroTJA/timedmap/badge.svg" /></a>&nbsp; -->
     <a href="https://goreportcard.com/report/github.com/zekroTJA/colorname"><img src="https://goreportcard.com/badge/github.com/zekroTJA/colorname"/></a>&nbsp;
