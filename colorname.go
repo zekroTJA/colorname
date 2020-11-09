@@ -55,13 +55,13 @@ func FindRGBA(rgba *color.RGBA) []*ColorMatch {
 	return FindRGB(int(rgba.R), int(rgba.G), int(rgba.B))
 }
 
-// FindRGBA is shorthand for FindRGB using an
+// FindNum is shorthand for FindRGB using an
 // integer color value.
 func FindNum(num int) []*ColorMatch {
 	return FindRGB(toRGB(num))
 }
 
-// FindRGBA is shorthand for FindRGB using a
+// FindHexStr is shorthand for FindRGB using a
 // hey string as color value.
 //
 // An error is returned, if the passed string
